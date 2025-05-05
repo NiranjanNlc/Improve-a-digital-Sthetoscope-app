@@ -90,3 +90,8 @@ Information about the assigned mentor can be found in the task’s descriptions.
 Information about Mboalab community Mentors can be found [Here](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Meet_the_Mentors#readme).
 
 See [Meet the Mentors Folder.](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Meet_the_Mentors)
+
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
